@@ -1,0 +1,2 @@
+C:\Users\zulc22\crunch\x64\Debug\crunch.exe
+C:\Users\zulc22\crunch\x64\Debug\crunch.pdb
