@@ -36,3 +36,8 @@ Release/*
 *.opendb
 *.db
 *.suo
+
+# VS stuff?
+.vs
+*.user
+x64
